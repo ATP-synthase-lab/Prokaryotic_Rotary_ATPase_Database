@@ -1,0 +1,10 @@
+The folder contains visualizations of phylogenetic trees of the bacteria and archeae.
+
+phylogenetic trees were taken from GTDB r202 database.
+Each leaf on the tree represents a family with genera. 
+Each genus is shown as a circle colored accordingly with the type and number of rotary ATPases encoded in the genome of representative species.
+Color coding for the ATPases is show in the picture ATPase_legend.png
+
+Bacterial tree is splitted into several parts. Ten big phyla are shown separetely. 
+Other tree parts are named with included phyla. 
+The most comprehensive bacterial tree part is Other_bacteria.pdf that includes notes on collapsed branches that are shown separately.
